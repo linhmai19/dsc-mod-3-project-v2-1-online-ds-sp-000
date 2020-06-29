@@ -26,7 +26,7 @@ Most naturally, your audience here would be the telecom business itself, interes
 
 ## Non-technical Presentation
 
-customer_churn_presentation.pdf
+<a href="">customer_churn_presentation.pdf</a>
 
 ## Walkthrough Video
 
