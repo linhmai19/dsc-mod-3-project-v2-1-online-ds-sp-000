@@ -22,7 +22,7 @@ Most naturally, your audience here would be the telecom business itself, interes
 ## Dataset:
 - Raw data: <a href="https://github.com/linhmai19/dsc-mod-3-project-v2-1-online-ds-sp-000/blob/master/customer_churn.csv">customer_churn.csv</a>
 
-- Cleaned data: <a href="">cleaned_customer_churn.csv</a>
+- Cleaned data: <a href="https://github.com/linhmai19/dsc-mod-3-project-v2-1-online-ds-sp-000/blob/master/cleaned_customer_churn.csv">cleaned_customer_churn.csv</a>
 
 ## Non-technical Presentation
 
