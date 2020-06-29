@@ -38,5 +38,6 @@ kc_presentation.pdf
 
 ## Reference 
 The raw dataset was downloaded from Kaggle and the data was collected from SyriaTel company 
+
 <a href="https://www.kaggle.com/becksddf/churn-in-telecoms-dataset">Churn in Telecom's Dataset</a>
 
