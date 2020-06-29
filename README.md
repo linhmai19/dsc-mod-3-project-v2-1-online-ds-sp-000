@@ -15,14 +15,14 @@ Most naturally, your audience here would be the telecom business itself, interes
 -
 
 ## Appendix for Files
-- Data Cleaning: <a href="">data_cleaning.ipynb</a>
+- Data Cleaning: <a href="https://github.com/linhmai19/dsc-mod-3-project-v2-1-online-ds-sp-000/blob/master/data_cleaning.ipynb">data_cleaning.ipynb</a>
 
-- EDA and modeling: <a href="">customer_churn_analysis.ipynb</a>
+- EDA and modeling: <a href="https://github.com/linhmai19/dsc-mod-3-project-v2-1-online-ds-sp-000/blob/master/customer_churn_analysis.ipynb">customer_churn_analysis.ipynb</a>
 
 ## Dataset:
-- Raw data: customer_churn.csv
+- Raw data: <a href="https://github.com/linhmai19/dsc-mod-3-project-v2-1-online-ds-sp-000/blob/master/customer_churn.csv">customer_churn.csv</a>
 
-- Cleaned data: cleaned_customer_churn.csv
+- Cleaned data: <a href="">cleaned_customer_churn.csv</a>
 
 ## Non-technical Presentation
 
