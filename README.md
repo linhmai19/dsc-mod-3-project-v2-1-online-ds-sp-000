@@ -31,7 +31,7 @@ This project is followed the OSEMN framework with the usage of five different cl
 
 ## Non-technical Presentation
 
-<a href="">customer_churn_presentation.pdf</a>
+<a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/customer_attrition_presentation.pdf">customer_churn_presentation.pdf</a>
 
 ## Walkthrough Video
 
