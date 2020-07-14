@@ -39,7 +39,7 @@ This project is followed the OSEMN framework with the usage of five different cl
 
 ## Blog post
 
-<a href="">Telecom Customer Attrition Analysis</a>
+<a href="https://medium.com/@linhnp.mai/telecom-customer-attrition-analysis-6d5da0f3c361">Telecom Customer Attrition Analysis</a>
 
 ## Reference 
 The raw dataset was downloaded from Kaggle and the data was collected from SyriaTel company 
