@@ -35,7 +35,7 @@ This project is followed the OSEMN framework with the usage of five different cl
 
 ## Walkthrough Video
 
-<a href="">Oral Presentation</a>
+<a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/oral_presentation.mp4">Oral Presentation</a>
 
 ## Blog post
 
