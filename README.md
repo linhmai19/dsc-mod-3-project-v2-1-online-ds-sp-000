@@ -22,7 +22,7 @@ This project is followed the OSEMN framework with the usage of five different cl
 ## Appendix for Files
 - Data Cleaning: <a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/data_cleaning.ipynb">data_cleaning.ipynb</a>
 
-- EDA and modeling: <a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/customer_churn_analysis.ipynb">customer_churn_analysis.ipynb</a>
+- EDA and modeling: <a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/mod_customer_churn_analysis.ipynb">customer_churn_analysis.ipynb</a>
 
 ## Dataset:
 - Raw data: <a href="https://github.com/linhmai19/telecom_customer_attrition_analysis/blob/master/customer_churn.csv">customer_churn.csv</a>
